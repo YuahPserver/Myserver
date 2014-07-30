@@ -1,8 +1,8 @@
 ---------------------Notice-----------------------------------
 Don't Upload To No Test Addon
 
-Admin:YuahP(À¯¾ÆP)
-Support Admin:Aniroid(¾Ö´Ï·ÎÀÌµå)
-Support Admin2:Gurpe(±×¶óÆä)
+Admin:YuahP(ìœ ì•„P)
+Support Admin:Aniroid(ì• ë‹ˆë¡œì´ë“œ)
+Support Admin2:Gurpe(ê·¸ë¼í˜)
 
 --------------------------------------------------------------
